@@ -42,3 +42,13 @@ Unlike traditional AI music tools that only generate tracks, **Tunee** gives you
 ---
 
 ⭐️ *Tunee: Chat to Create. Manage to Evolve. Visualize to Inspire.*  
+
+ai-music-agent, 
+ai-music, 
+music-generator, 
+chat-to-create, 
+creative-canvas, 
+music-video, 
+cinematic-mv, 
+generative-ai
+
